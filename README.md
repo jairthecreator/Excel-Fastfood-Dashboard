@@ -1,5 +1,6 @@
 # Excel-Fastfood-Dashboard
-I selected a dataset from Kaggle that contained a list of fast food location in the United States and their exact location. 
+I selected a dataset from Kaggle that contained a list of fast food location in the United States and their exact location. The dataset was created by Mohamadreza Momeni.
+https://www.kaggle.com/discussions/accomplishments/481381
 
 The dataset consisted of 10,000 observations, spanning across 14 categorical variables pertinent to the fast food restaurant domain. I also changed the "providence" column title to "state" for my personal preference. To enhance the dataset's utility, I added an additional column titled 'region', aimed at organizing  state locations by regions. The dataset was categorized into the distinct regions of the Midwest, Northeast, Southwest, Southeast, and West within the United States. This breakdown ensures a structured approach to the analysis, allowing users to glean valuable insights tailored to specific geographic contexts. 
 
